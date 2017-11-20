@@ -10,5 +10,10 @@ Proposals for the protocol specification are accepted with a super majority (2/3
 ### Override
 A vote for a given proposal may be overridden by consensus of ```RohBot3``` members (excluding Rohansi).
 
+## Excluded member
+The following members are excluded from any activities related to ```RohBot3```.
+- toaster/bbielsa
+  - Reason: Crime against humanity
+
 
 
